@@ -6,5 +6,5 @@ categories: jekyll update
 
 This is my first blog post! This was published on {{ page.date }}.
 
-Matter test (../matter_devices.xml)
+Matter test (assets/xml/matter_devices.xml)
 
